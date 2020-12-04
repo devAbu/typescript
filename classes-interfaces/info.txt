@@ -1,0 +1,7 @@
+OOP - object oriented programming
+
+Work with "real-life" Entities in your Code
+
+Objects = The things you work with in code - Instance of the Class
+
+Classes = Blueprint of objects - Define how objects look like, which properties and methods they have
