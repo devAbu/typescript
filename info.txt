@@ -1,0 +1,11 @@
+Typescript is a JS superset or Next level JS
+
+Added new features and advantages to JS
+
+Made JS easier and more powerful
+
+* Browser / Node.js can not execute TS => compile TS to get JS
+
+Earlier error checking
+
+tsc file_name.ts --> to compile TS to JS

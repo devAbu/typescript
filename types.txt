@@ -1,0 +1,21 @@
+Number --> all types of number (1, 3.5, -6)
+
+String --> all text values ('Hi', `Hi`, "Hi")
+
+Boolean --> True or False
+
+Object
+
+ARRAY
+
+TUPLE - Fixed length and type array
+
+ENUM
+
+ANY - any kind of values
+
+******
+
+JS uses dynamic types (resolved at runtime), TS uses static types (set during development)
+
+The core primitive types in TS are all LOWERCASE

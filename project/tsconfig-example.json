@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "CommonJS",
+    "allowJs": true,
+    "lib": [
+      "dom",
+      "es6",
+      "dom.iterable",
+      "ScriptHost",
+    ],
+    "removeComments": true,
+    "declaration": true,
+  },
+  "exclude": [
+    "node_modules",
+  ]
+}
